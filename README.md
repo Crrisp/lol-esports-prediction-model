@@ -6,7 +6,7 @@ This project aims to predict the outcomes of League of Legends matches based on 
 
 
 
-An overview of the process and findings can be seen in the attached PowerPoint presentation.
+An overview of the process and findings can be seen in the PowerPoint presentation.
 
 
 
